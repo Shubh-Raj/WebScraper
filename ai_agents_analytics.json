@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "total_agents": 12,
+    "collection_date": "2025-05-27T12:58:41.649589",
+    "data_sources": [
+      "Curated Database",
+      "Web Scraping",
+      "GitHub Analysis"
+    ]
+  },
+  "pricing_analysis": {
+    "distribution": {
+      "Open Source/Free (requires LLM API costs)": 1,
+      "Open Source/Free (MIT License)": 2,
+      "Open Source/Free": 7,
+      "Freemium (Free tier available, Pro plans start at $20/month)": 1,
+      "Open Source/Free (Apache 2.0 License)": 1
+    },
+    "open_source_percentage": 100.0
+  },
+  "feature_analysis": {
+    "most_common": [
+      [
+        "github-based ai agent project",
+        2
+      ],
+      [
+        "autonomous task execution",
+        1
+      ],
+      [
+        "internet browsing and information gathering",
+        1
+      ],
+      [
+        "long-term and short-term memory management",
+        1
+      ],
+      [
+        "file read/write operations",
+        1
+      ],
+      [
+        "code generation and execution",
+        1
+      ],
+      [
+        "plugin system for extensibility",
+        1
+      ],
+      [
+        "llm integration and abstraction",
+        1
+      ],
+      [
+        "chain composition for complex workflows",
+        1
+      ],
+      [
+        "memory systems (conversation, entity, summary)",
+        1
+      ]
+    ],
+    "total_unique_features": 61
+  },
+  "community_metrics": {},
+  "platform_distribution": {},
+  "quality_metrics": {
+    "completeness_percentage": 100.0,
+    "avg_description_length": 141.7,
+    "agents_with_reviews": 12
+  }
+}
